@@ -1,7 +1,7 @@
 # 🎮 Custom Gaming Controller
 
 <p align="center">
-  <img src="images/controller.png" alt="Custom Gaming Controller" width="700"/>
+  <img src="images/controller.jpeg" alt="Custom Gaming Controller" width="700"/>
 </p>
 
 <p align="center">
